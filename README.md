@@ -2,7 +2,7 @@
 
 ![Chess](https://img.shields.io/badge/Game-Chess-blue)
 ![Java](https://img.shields.io/badge/Language-Java-orange)
-![License](https://img.shields.io/badge/License-MIT-green)
+
 
 ## Opis projektu
 

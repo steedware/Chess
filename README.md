@@ -23,4 +23,4 @@ Prosta implementacja gry w szachy w języku Java. Gra umożliwia rozgrywkę mię
 
 1. Sklonuj repozytorium:
    ```bash
-   git clone https://github.com/TwojaNazwaUzytkownika/chess-game-java.git
+   git clone https://github.com/szymek343t/Chess.git
